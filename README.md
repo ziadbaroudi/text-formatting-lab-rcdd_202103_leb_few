@@ -125,5 +125,3 @@ appealing.
 - [HTML Tag Reference](https://www.w3schools.com/tags/tag_i.asp)
 
 [pages-in-learn-ide]: http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/text-formatting' title='Text Formatting'>Text Formatting</a> on Learn.co and start learning to code for free.</p>
